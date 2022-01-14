@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **MineHacks**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development** and **Software Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
