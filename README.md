@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/930122478636896320/931241827531640922/unknown.png" style="width: 20%; display: block; margin-left: auto; margin-right: auto; border: 10px solid black;"/></a>
 
 <h1 align="center">CYANIDE</h1>
 
