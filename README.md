@@ -7,7 +7,7 @@
 
 - 💫 Minehacks
 
-- 🌱 I’m currently making a 4 base cpu omegalul ez haha halt problem fixed
+- 📟 I’m currently making a 4 base cpu omegalul ez haha halt problem fixed
 
 - 👯 Open source == profit
 
