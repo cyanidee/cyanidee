@@ -4,17 +4,19 @@
 
 
 
-## 🙋‍♂️ About Me
+<-#-#-# 🙋‍♂️ [CYANIDEE] #-#-#->
 
-- 🔭 I’m currently working on **MineHacks**
+- 💫 Minehacks
 
-- 🌱 I’m currently learning **Web development** and **Software Development**
+- 🌱 I’m currently making a 4 base cpu omegalul ez haha halt problem fixed
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 Open source == profit
 
-- 📫 How to reach me **cyanideeeee@protonmail.com**
+- 📫 Email: **cyanideeeee@protonmail.com**
 
-- ⚡ Fun fact **I am lazy.**
+- 💻 (1337 x ♾️) === me === CYANIDEE
+
+- ⚡ C > Python > everything > human shit > Javascript
 
 ## 🚀 Languages and Tools:
 
