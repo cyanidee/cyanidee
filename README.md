@@ -1,10 +1,6 @@
 
 <h1 align="center">CYANIDE</h1>
 
-
-
-<-#-#-# 🙋‍♂️ [CYANIDEE] #-#-#->
-
 💫 Minehacks
 
 📟 I’m currently making a 4 base cpu omegalul ez haha halt problem fixed
