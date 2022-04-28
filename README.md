@@ -5,17 +5,17 @@
 
 <-#-#-# 🙋‍♂️ [CYANIDEE] #-#-#->
 
-- 💫 Minehacks
+💫 Minehacks
 
-- 📟 I’m currently making a 4 base cpu omegalul ez haha halt problem fixed
+📟 I’m currently making a 4 base cpu omegalul ez haha halt problem fixed
 
-- 👯 Open source == profit
+👯 Open source == profit
 
-- 📫 Email: **cyanideeeee@protonmail.com**
+📫 Email: **cyanideeeee@protonmail.com**
 
-- 💻 (1337 x ♾️) === me === CYANIDEE
+💻 (1337 x ♾️) === me === CYANIDEE
 
-- ⚡ C > Python > everything > human shit > Javascript
+⚡ C > Python > everything > human shit > Javascript
 
 ## 🚀 Languages and Tools:
 
