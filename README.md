@@ -1,17 +1,12 @@
-
 <h1 align="center">CYANIDE</h1>
 
-💫 Minehacks
+💫 slay
 
-📟 I’m currently making a 4 base cpu omegalul ez haha halt problem fixed
-
-👯 Open source == profit
+👯 Open source 
 
 📫 Email: **cyanideeeee@protonmail.com**
 
-💻 (1337 x ♾️) === me === CYANIDEE
-
-⚡ C > Python > everything > human shit > Javascript
+⚡ C > Python 
 
 
 ## 🚀 Languages and Tools:
