@@ -2,10 +2,6 @@
 
 💫 slay
 
-👯 Open source 
-
-📫 Email: **cyanideeeee@protonmail.com**
-
 ⚡ C > Python 
 
 
