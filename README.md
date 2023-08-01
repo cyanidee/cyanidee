@@ -60,11 +60,11 @@ Tools 🛠️
 
   <br/>
   
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/cyanidee/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=cyanidee&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <br/>
-<br/>
+
 <br/>
     <a href="https://github.com/cyanidee/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CYANIDE's streak" src="https://github-readme-streak-stats.herokuapp.com?user=cyanidee&theme=react&hide_border=true&background=EB000000"/>
