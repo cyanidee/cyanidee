@@ -1,48 +1,75 @@
-<h1 align="center">CYANIDE</h1>
-
-💫 slay
-
-⚡ C > Python 
-
-
-## 🚀 Languages and Tools:
-
-<p align="left">
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
+<h1 align="center">cyanidee</h1>
 <p align="center">
-    <a href="https://github.com/cyanidee/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CYANIDE's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cyanidee&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://hits.seeyoufarm.com/">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyanidee&title_bg=%232D2D2D&count_bg=%2300CC69&icon=github.svg&icon_color=%23E7E7E7&title=Views%20%28Day%20%2F%20All%29&edge_flat=false" />
+    </a>
+    <a href="https://github.com/STRRL/serverless-github-badges">
+        <img src="https://badges.strrl.dev/years/cyanidee?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
+    </a>
+    <a href="https://github.com/cyanidee?tab=followers">
+        <img src="https://img.shields.io/github/followers/cyanidee?labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/github/stars/cyanidee?affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
+    </a>
+    <br />
+    <a href="#">
+        <img src="https://img.shields.io/badge/Open_Source-❤-FF0069?style=flat&labelColor=333333&logoColor=E7E7E7">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/PRs-Welcome-00CC00?style=flat&labelColor=333333&logoColor=E7E7E7">
     </a>
 </p>
 
-## 📊 My Github Stats
+<br />
+
+<br />
+
+```py
+from datetime import date
+
+class AboutMe():
+    def __init__(self):
+        self.username = "cyanidee"
+        self.occupation = "pentest & web dev"
+        self.interests = ["Bypassing Security", "Programming", "Linux", "Open Source", "Crypto"]
+        self.hotel = "Trivago"
+        self.breed = "Cutie"
+
+if __name__ == "__main__":
+    me = AboutMe()
+```
+
+<br />
+
+
+Tools 🛠️
+--------
+[![Arch Linux](https://img.shields.io/badge/-Kali_Linux-333333?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1793D1    )](https://archlinux.org/)
+[![VS Code](   https://img.shields.io/badge/-VS_Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC)](https://code.visualstudio.com/)
+[![PyCharm](   https://img.shields.io/badge/-PyCharm-333333?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=18BEB9         )](https://www.jetbrains.com/pycharm)
+[![Git](       https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032                 )](https://git-scm.com/)
+[![GitHub](    https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=222222           )](https://github.com/)
+[![Zsh](       https://img.shields.io/badge/-Zsh-333333?style=for-the-badge&logo=zelle&logoColor=white&labelColor=FF2299               )](https://www.zsh.org/)
+
+
+<br />
+
+
+## My Github Stats 📊
 
   <br/>
-    <a href="https://github.com/cyanidee/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cyanidee&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyanidee&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+  <p align="center">
+    <a href="https://github.com/cyanidee/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=cyanidee&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
+    <a href="https://github.com/cyanidee/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CYANIDE's streak" src="https://github-readme-streak-stats.herokuapp.com?user=cyanidee&theme=react&hide_border=true&background=EB000000"/>
+    </a>
+</p>
 
 
-
-<br/>
-<br/>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=cyanidee">
-</a>
-<a href="https://github.com/cyanidee?tab=followers"></a>
