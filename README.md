@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
 Tools 🛠️
 --------
-[![Arch Linux](https://img.shields.io/badge/-Kali_Linux-333333?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1793D1    )](https://archlinux.org/)
+[![Arch Linux](https://img.shields.io/badge/-Kali_Linux-333333?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1793D1    )](https://kali.org/)
 [![VS Code](   https://img.shields.io/badge/-VS_Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC)](https://code.visualstudio.com/)
 [![PyCharm](   https://img.shields.io/badge/-PyCharm-333333?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=18BEB9         )](https://www.jetbrains.com/pycharm)
 [![Git](       https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032                 )](https://git-scm.com/)
