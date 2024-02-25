@@ -6,19 +6,8 @@
     <a href="https://github.com/STRRL/serverless-github-badges">
         <img src="https://badges.strrl.dev/years/cyanidee?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
     </a>
-    <a href="https://github.com/cyanidee?tab=followers">
-        <img src="https://img.shields.io/github/followers/cyanidee?labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/github/stars/cyanidee?affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
-    </a>
-    <br />
-    <a href="#">
-        <img src="https://img.shields.io/badge/Open_Source-❤-FF0069?style=flat&labelColor=333333&logoColor=E7E7E7">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/PRs-Welcome-00CC00?style=flat&labelColor=333333&logoColor=E7E7E7">
-    </a>
+
+
 </p>
 
 <br />
